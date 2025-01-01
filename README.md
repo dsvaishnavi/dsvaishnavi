@@ -5,7 +5,7 @@ Hey there! I'm Vaishnavi, a passionate software developer and open-source enthus
 ## 🚀 About Me
 
 - 🔭 **Current Project**: Working on building a mern stack using react,node,express js.
-- 🌱 **Currently Learning**: Exploring raect js ,mongodb.
+- 🌱 **Currently Learning**: Exploring react js ,mongodb.
 - ⚡ **Fun Fact**: When I'm not coding, you'll find me reading books.
 
 ## 🛠️ Technologies & Tools
