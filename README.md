@@ -2,6 +2,7 @@
 
 Hey there! I'm Vaishnavi, a passionate software developer and open-source enthusiast. I love creating innovative solutions, contributing to impactful projects, and learning new technologies every day.
 
+
 ## 🚀 About Me
 
 - 🔭 **Current Project**: Working on building a mern stack using react,node,express js.
@@ -18,15 +19,30 @@ I work with a variety of tools and technologies to build robust and scalable app
 
 ### Backend Development
 - 🔧 **Languages**: Python, Java, Node.js, TypeScript
-- 🔗 **Frameworks**: Express, Flask, Django, Spring Boot
+- 🔗 **Frameworks**: Express, Flask
+
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvaishnavi&layout=compact&theme=radical)
+
 
 ### Databases & Cloud
 - 🗃️ **Databases**: MySQL, MongoDB, PostgreSQL
 - ☁️ **Cloud**: AWS, Azure, Google Cloud
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsvaishnavi&show_icons=true&theme=radical)
+
+
+
+
+
+
+
 ### DevOps & CI/CD
 - ⚙️ **Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
 - 🛠️ **Version Control**: Git, GitHub
+
+- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dsvaishnavi&theme=radical)
 
 
 ## 🎯 My Open-Source Contributions
