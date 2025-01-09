@@ -24,6 +24,9 @@ I work with a variety of tools and technologies to build robust and scalable app
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvaishnavi&layout=compact&theme=radical)
 
 
+- ## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=dsvaishnavi&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
 ### Databases & Cloud
 - 🗃️ **Databases**: MySQL, MongoDB, PostgreSQL
 - ☁️ **Cloud**: AWS, Azure, Google Cloud
@@ -43,8 +46,7 @@ I work with a variety of tools and technologies to build robust and scalable app
 - 🛠️ **Version Control**: Git, GitHub
 
 
-- ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=dsvaishnavi&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
