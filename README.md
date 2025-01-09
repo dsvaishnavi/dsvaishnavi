@@ -42,7 +42,14 @@ I work with a variety of tools and technologies to build robust and scalable app
 - ⚙️ **Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
 - 🛠️ **Version Control**: Git, GitHub
 
-- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dsvaishnavi&theme=radical)
+
+- ## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=dsvaishnavi&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
+
+
+
+
 
 
 ## 🎯 My Open-Source Contributions
