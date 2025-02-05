@@ -27,9 +27,6 @@ I work with a variety of tools and technologies to build robust and scalable app
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvaishnavi&layout=compact&theme=radical)
 
 
-![Resume Screener]("C:\Users\work\Desktop\Flipkartclone2\Flipkartclone\flipkart.png")
-
-
 ### Databases & Cloud
 - 🗃️ **Databases**: MySQL, MongoDB, PostgreSQL
 - ☁️ **Cloud**: AWS, Azure, Google Cloud
