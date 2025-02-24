@@ -12,9 +12,9 @@ Hey there! I'm Vaishnavi, a passionate software developer and open-source enthus
 
 
 ## 🛠️ Technologies & Tools
-
-
 I work with a variety of tools and technologies to build robust and scalable applications:
+
+
 
 ### Frontend Development
 - 💻 **Languages**: HTML, CSS, JavaScript
