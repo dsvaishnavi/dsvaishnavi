@@ -70,7 +70,7 @@ Feel free to contribute or open issues on any of my projects!
 ## 🚀 Fun Extras
 
 - 🧑‍💻 **Currently learning**: mern stack 
-- 🎮 **Gaming Passion**: Besides coding, I'm also passionate about pc games.
+- 🎮 **Gaming Passion**: Besides coding, I'm also passionate about pc games,playing badminton.
 - 🌍 **Open to Mentorship**: If you need help learning programming or a specific technology, feel free to ask!
 
 ---
