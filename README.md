@@ -61,10 +61,10 @@ I love contributing to open-source! Check out some of the projects I've worked o
 
 - 🏗️ cafe management
 - To-do App
+- Portfolio
 
 
-Feel free to contribute or open issues on any of my projects!
-
+  
 ---
 
 ## 🚀 Fun Extras
