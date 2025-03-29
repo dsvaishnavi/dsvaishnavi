@@ -62,6 +62,7 @@ I love contributing to open-source! Check out some of the projects I've worked o
 - 🏗️ cafe management
 - To-do App
 - Portfolio
+- Flipkart clone
 
 
   
