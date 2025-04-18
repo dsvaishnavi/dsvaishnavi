@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!👋
 
-Hey there! I'm Vaishnavi, a passionate software developer and open-source enthusiast. I love creating innovative solutions, contributing to impactful projects, and learning new technologies every day.
+<i>Hey there!</i> I'm Vaishnavi, a passionate software developer and open-source enthusiast. I love creating innovative solutions, contributing to impactful projects, and learning new technologies every day.
 ## 🚀 Tech Stack
 
 
