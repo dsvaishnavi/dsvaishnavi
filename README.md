@@ -21,9 +21,9 @@
 
 ## 🚀 About Me!!!
 
-- 🔭 **Current Project**: Working on building a Flipkartclone using react,node,express js.
-- 🌱 **Currently Learning**: Exploring react js ,mongodb.
-- ⚡ **Fun Fact**: When I'm not coding, you'll find me reading books.
+- 🔭 **Current Project**: Working on building a website called skillsync for placement preparation.
+- 🌱 **Currently Learning**: Machine learning,Deep Learning.
+- ⚡ **Fun Fact**: When I'm not coding, you'll find me dancing.
 
 
 
