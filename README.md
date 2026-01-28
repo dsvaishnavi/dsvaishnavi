@@ -67,16 +67,15 @@ I love contributing to open-source! Check out some of the projects I've worked o
 - To-do App
 - Portfolio
 - Flipkart clone
+- UrbanNest
+- SKillSync
 
-
-  
 ---
 
 ## 🚀 Fun Extras
 
-- 🧑‍💻 **Currently learning**: mern stack 
+- 🧑‍💻 **Currently learning**: Deep Learning
 - 🎮 **Gaming Passion**: Besides coding, I'm also passionate about pc games,playing badminton.
-- 🌍 **Open to Mentorship**: If you need help learning programming or a specific technology, feel free to ask!
 
 ---
 
